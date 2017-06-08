@@ -30,6 +30,14 @@ INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (40, '40', 'Plz. M
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (41, '41', 'Plz. Magadalena - Tablada', 1, '#000d6f');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (43, '43', 'Plz. Magdalena - El Tardon', 1, '#000d6f');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (52, '52', 'S. Bernardo - Palmete', 1, '#742929');
+INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (101, 'A1', 'Prado San Sebastián - Pino Montano', 1, '#000000');
+INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (102, 'A2', 'P.S.Sebastian - Torneo - S.Jeronimo', 1, '#000000');
+INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (103, 'A3', 'P. San Sebastian - Polig. S. Pablo', 1, '#000000');
+INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (104, 'A4', 'P.S.Sebastian - Sta.Aurelia', 1, '#000000');
+INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (105, 'A5', 'P.San Sebastian - Poligono Sur', 1, '#000000');
+INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (106, 'A6', 'P.S.Sebastian - Heliopolis', 1, '#000000');
+INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (107, 'A7', 'Circular Nocturno', 1, '#000000');
+INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (110, 'A8', 'P.S.Sebastian - Alcosa', 1, '#000000');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (87, 'B3', 'Gran Plaza - Santa Clara', 1, '#84c6e3');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (119, 'B4', 'San Bernardo - Torreblanca', 1, '#84c6e3');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (81, 'C1', 'Circular Exterior 1', 1, '#008431');
