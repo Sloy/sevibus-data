@@ -50,8 +50,6 @@ INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, line
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2034, 'PRADO DE S.SEBASTIAN', 2, '06:13:00', '00:08:00', 34);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1037, 'BELLAVISTA ', 1, '06:14:00', '00:06:00', 37);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2037, 'PUERTA JEREZ', 2, '06:00:00', '23:29:00', 37);
-INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2038, 'PRADO DE S.SEBASTIAN', 2, '07:35:00', '22:55:00', 38);
-INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1038, 'UNIV. P.OLAVIDE', 1, '07:05:00', '22:25:00', 38);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1125, ' PITAMO P.OLAVIDE', 1, '06:35:00', '00:00:00', 125);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2125, 'PRADO DE S.SEBASTIAN', 2, '06:00:00', '00:07:00', 125);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1039, 'HACIENDA SAN ANTONIO', 1, '07:25:00', '00:05:00', 39);

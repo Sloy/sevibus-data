@@ -24,7 +24,6 @@ INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (31, '31', 'Prado 
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (32, '32', 'Plz. Duque - Plg. Sur', 1, '#000d6f');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (34, '34', 'Prado San Sebastián - Los Bermejales', 1, '#000d6f');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (37, '37', 'Pta. Jerez - Pedro Salvador - Bellavista', 1, '#000d6f');
-INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (38, '38', 'Prado - Univ. P. Olavide', 1, '#000d6f');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (125, '38A', 'Prado - Pitamo - Olavide', 1, '#000d6f');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (39, '39', 'Los Arcos - Hac. S. Antonio', 1, '#000d6f');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (40, '40', 'Plz. Magdalena - Triana', 1, '#000d6f');
