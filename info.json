@@ -20,3 +20,14 @@
         "tipolineas": "https://gitlab.com/Sloy/sevibus-data/raw/master/sql/tipolineas.sql"
     }
 }
+{
+    "data_version": 201706082224,
+    "app_min_build_version": 94,
+    "data_location": {
+        "paradas": "https://gitlab.com/Sloy/sevibus-data/raw/master/sql/paradas.sql",
+        "lineas": "https://gitlab.com/Sloy/sevibus-data/raw/master/sql/lineas.sql",
+        "relaciones": "https://gitlab.com/Sloy/sevibus-data/raw/master/sql/relaciones.sql",
+        "secciones": "https://gitlab.com/Sloy/sevibus-data/raw/master/sql/secciones.sql",
+        "tipolineas": "https://gitlab.com/Sloy/sevibus-data/raw/master/sql/tipolineas.sql"
+    }
+}
