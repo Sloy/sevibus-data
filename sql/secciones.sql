@@ -72,6 +72,7 @@ INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, line
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (99082, 'CIRCULAR', 99, '05:46:00', '23:57:00', 82);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (99083, 'CIRCULAR', 99, '06:00:00', '23:51:00', 83);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (99084, 'CIRCULAR', 99, '06:00:00', '23:46:00', 84);
+INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (99121, 'CIRCULAR', 99, '09:50:00', '21:49:00', 121);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (99108, 'CIRCULAR', 99, '05:50:00', '00:20:00', 108);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (99109, 'CIRCULAR', 99, '06:45:00', '16:45:00', 109);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1100, 'AEROPUERTO ', 1, '04:30:00', '00:45:00', 100);

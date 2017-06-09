@@ -37,6 +37,7 @@ INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (81, 'C1', 'Circul
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (82, 'C2', 'Circular Exterior 2', 1, '#008431');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (83, 'C3', 'Circular Interior 1', 1, '#008431');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (84, 'C4', 'Circular Interior 2', 1, '#008431');
+INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (121, 'C5', 'Circular Centro 5', 1, '#008431');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (108, 'C6A', 'Circular Macarena Norte Sentido A', 1, '#008431');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (109, 'C6B', 'Circular Macarena Norte Sentido B', 1, '#008431');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (100, 'EA', 'Aeropuerto', 1, '#84c6e3');
