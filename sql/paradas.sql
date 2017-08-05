@@ -14,6 +14,7 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (13, 'Castill
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (14, 'Navarra (Larache)', 37.42528533935547, -5.985510349273682);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (15, 'Torneo (Baños)', 37.39629364013672, -6.001951217651367);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (16, 'Torneo (Puerta de San Juan)', 37.40080261230469, -5.998100757598877);
+INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (17, 'Puerta de La Barqueta', 37.40308380126953, -5.995262622833252);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (18, 'Resolana (Feria)', 37.403350830078125, -5.992218494415283);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (19, 'Parlamento de Andalucía (Macarena)', 37.40306854248047, -5.988490104675293);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (20, 'Ronda de Capuchinos (San Julián)', 37.39972686767578, -5.983828544616699);
@@ -174,7 +175,6 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (175, 'Espera
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (176, 'Alvar Núñez (Rubén Dario)', 37.377071380615234, -6.012759685516357);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (177, 'Alvar Núñez (Lorenzo Leal)', 37.37875747680664, -6.011331558227539);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (178, 'Alvar Núñez (López de Gomara)', 37.37998580932617, -6.009782314300537);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (179, 'Ctra. Pino Montano (Cortijo Las Monjas)', 37.42485427856445, -5.953763008117676);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (180, 'López de Gomara (Instituto Bécquer)', 37.37805938720703, -6.007606029510498);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (181, 'República Argentina (Virgen de África)', 37.376426696777344, -6.004271507263184);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (182, 'Avda. República Argentina (Calle Arcos)', 37.37807846069336, -6.001607894897461);
@@ -210,7 +210,6 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (211, 'Virgen
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (212, 'Manuel Ramón Alarcón (Luis Montoto)', 37.38800048828125, -5.967893600463867);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (213, 'Virgen de Luján (Juan Ramón Jiménez)', 37.37476348876953, -5.999670028686523);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (214, 'Virgen de Luján (Virgen de África)', 37.37468338012695, -6.002431869506836);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (215, 'Ctra. Pino Montano (Finca Encarnación)', 37.42910385131836, -5.945169925689697);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (216, 'Alcalde Luis Uruñuela (Puerta Este)', 37.40364074707031, -5.938882827758789);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (217, 'Avda. Sánchez Pizjuán (Macarena Cinco)', 37.40966796875, -5.987280368804932);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (218, 'Trabaj. Inmigrantes (Diego Puerta)', 37.41103744506836, -5.980907440185547);
@@ -220,7 +219,7 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (221, 'Avda. 
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (222, 'Avenida Emilio Lemos (Centro Comercial)', 37.40774154663086, -5.909909725189209);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (223, 'Canalejas (Gravina)', 37.390289306640625, -6.000857830047607);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (224, 'San Vicente de Paúl (Ciudad Real)', 37.38271713256836, -6.013922691345215);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (225, 'Trabaj. Inmigrantes(Doctor Fedriani)', 37.412315368652344, -5.9823737144470215);
+INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (225, 'Trabaj. Inmigrantes(Diego de Almagro)', 37.412315368652344, -5.9823737144470215);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (226, 'Hytasa (Plg. Ind. Su Eminencia)', 37.368282318115234, -5.956000804901123);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (228, 'Concej. Jiménez Becerril (Gta. Olimpica)', 37.411712646484375, -5.989769458770752);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (229, 'Avenida Coria (San Martín de Porres)', 37.38105392456055, -6.010422229766846);
@@ -315,7 +314,7 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (318, 'Federi
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (319, 'Avenida Emilio Lemos (Vietnam)', 37.40635299682617, -5.912983417510986);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (320, 'Aguila Perdicera (Centro Salud)', 37.36714553833008, -5.953720569610596);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (321, 'Ctra. Pino Montano (Cortijo Las Monjas)', 37.42455291748047, -5.95383882522583);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (322, 'José Galán Merino (Larache)', 37.424774169921875, -5.987988471984863);
+INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (322, 'José Galán Merino (Larache)', 37.4244270324707, -5.987865924835205);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (323, 'Águila Perdicera (Bda. La Música)', 37.36589431762695, -5.949536323547363);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (324, 'Los Claveles (Doña Francisquita)', 37.37457275390625, -5.949986934661865);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (325, 'Doña Francisquita (La Calesera)', 37.37502670288086, -5.9478840827941895);
@@ -327,7 +326,7 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (330, 'Luis M
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (331, 'Luis Montoto (San Benito)', 37.38773727416992, -5.980113983154297);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (332, 'Monsalves (Fernán Caballero)', 37.39226150512695, -5.998556613922119);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (333, 'Amador de Los Ríos (Júpiter)', 37.390953063964844, -5.9826884269714355);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (334, 'Recaredo (Puerta Osario)', 37.3924560546875, -5.984158515930176);
+INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (334, 'Recaredo (Puerta Osario)', 37.39306640625, -5.984151840209961);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (336, 'Luis Montoto (Manuel Halcon)', 37.38756561279297, -5.98002815246582);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (337, 'Cardenal Cisneros (Abad Gordillo)', 37.394168853759766, -5.999212265014648);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (338, 'La Calesera (Doña Francisquita)', 37.374794006347656, -5.94705867767334);
@@ -351,7 +350,6 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (355, 'Afán 
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (356, 'Afán de Ribera (Juan Talavera Heredia)', 37.36949920654297, -5.953688621520996);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (357, 'Avenida de Hytasa (Illescas)', 37.36830520629883, -5.955812931060791);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (358, 'Monsalve (Miguel de Carvajal)', 37.39194869995117, -5.999650955200195);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (359, 'San Luis (Arco Macarena)', 37.402549743652344, -5.989275932312012);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (360, 'Ntra. Sra. Mercedes (Diez Mandamientos)', 37.37267303466797, -5.974470138549805);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (361, 'Avda. La Paz (Los Diez Mandamientos)', 37.3724479675293, -5.973654747009277);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (362, 'Avenida Emilio Lemos (Sendai)', 37.404945373535156, -5.916105270385742);
@@ -382,7 +380,6 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (388, 'Avenid
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (390, 'Avda. Andalucía (Resid. Sta. Isabel)', 37.38633346557617, -5.94259786605835);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (391, 'Dra. Navarro Rodríguez', 37.4003791809082, -5.921008586883545);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (392, 'Coruña (Avda. Coria)', 37.38210678100586, -6.012409687042236);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (393, 'Ctra. de Brenes (C/ San Cayetano)', 37.42525100708008, -5.928196907043457);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (394, 'Evangelista (Condes de Bustillo)', 37.37970733642578, -6.007012844085693);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (395, 'Ctra. El Pítamo', 37.35072326660156, -5.944569110870361);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (396, 'López de Gomara (San Martín de Porres)', 37.380165100097656, -6.008839130401611);
@@ -426,7 +423,7 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (434, 'Av. Ga
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (435, 'Afán (Residencia Tercera Edad)', 37.376338958740234, -5.932701110839844);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (436, 'Guadalbullon (Pedro Salvador)', 37.35383605957031, -5.978021621704102);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (437, 'García Morato (Barberán y Collar)', 37.368431091308594, -6.011604309082031);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (438, 'García Morato (Carlos Haya)', 37.367713928222656, -6.007895469665527);
+INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (438, 'García Morato (Comisaria Policia)', 37.367713928222656, -6.007895469665527);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (439, 'Ali Al-Gomari (Barriada Pineda)', 37.35207748413086, -5.976154804229736);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (440, 'Hytasa  (Herramientas)', 37.36933898925781, -5.958199977874756);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (441, 'Alcalde Luis Uruñuela (Parque Alcosa)', 37.404502868652344, -5.929226875305176);
@@ -437,6 +434,7 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (445, 'Avda. 
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (446, 'Dra. Navarro Rodriguez', 37.40031051635742, -5.921148300170898);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (447, 'Flor de Gitanilla', 37.398067474365234, -5.920214653015137);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (448, 'Avda. Mujer Trabajadora (Casa Cuna)', 37.410194396972656, -5.969062805175781);
+INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (449, 'Avda. Andalucia (Los Pajaritos)', 37.38719940185547, -5.95782995223999);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (450, 'Luis Montoto (Luis de Morales)', 37.38713836669922, -5.9719061851501465);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (451, 'Carlos Marx (Parque Amate)', 37.38106918334961, -5.952036380767822);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (452, 'José M. Javierre (Los Arcos)', 37.387855529785156, -5.95861291885376);
@@ -455,7 +453,6 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (464, 'Av. La
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (465, 'Andalucía Residencial', 37.387123107910156, -5.923068523406982);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (466, 'La Calesera', 37.37749099731445, -5.948184490203857);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (467, 'Av. Parque Amate (Rosaleda)', 37.384029388427734, -5.950716495513916);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (468, 'Feria (Bécquer)', 37.40263748168945, -5.991754531860352);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (469, 'Avda. Emilio Lemos (San Ildefonso)', 37.40329360961914, -5.920611381530762);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (470, 'María Auxiliadora (Puerta Osario)', 37.395042419433594, -5.983096122741699);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (471, 'Avenida de Las Ciencias (Japón)', 37.401878356933594, -5.926769733428955);
@@ -488,7 +485,6 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (498, 'Torrel
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (499, 'Pero Mingo (Canal Bj. Guadalquivir)', 37.38551330566406, -5.909271240234375);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (500, 'Pero Mingo (Isla Mayor)', 37.385658264160156, -5.913240909576416);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (501, 'Avenida del Cid (Facultad de derecho)', 37.38008117675781, -5.988675117492676);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (502, 'Ulpiano Blanco (Auxiliar N-IV)', 37.41373062133789, -5.9330034255981445);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (503, 'Avda. Jerez (Rotonda Bda. Elcano)', 37.35071563720703, -5.9775495529174805);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (504, 'Av. Reino Unido (Glta. Av. Jerez)', 37.3465690612793, -5.976648330688477);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (505, 'María Galiana (Hospital Fremap)', 37.343360900878906, -5.97333288192749);
@@ -532,14 +528,14 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (542, 'Torrem
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (543, 'Biología (El Higuerón)', 37.43061828613281, -5.976401329040527);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (544, 'M. Romero Martínez (Tanatorio)', 37.43135452270508, -5.978997707366943);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (545, 'Cataluña (Valencia)', 37.424503326416016, -5.983364582061768);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (546, 'José Galán Merino (Larache)', 37.4248161315918, -5.988450050354004);
+INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (546, 'José Galán Merino (Larache)', 37.42408752441406, -5.98798131942749);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (547, 'Carretera Su Eminencia (Avenida La Paz)', 37.361324310302734, -5.958559513092041);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (548, 'Carretera Su Eminencia (Avenida La Paz)', 37.3617057800293, -5.958795547485352);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (549, 'Gran Plaza', 37.381858825683594, -5.96613883972168);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (550, 'Avenida Carlos V (Prado San Sebastián)', 37.38018035888672, -5.9853010177612305);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (551, 'Alcalá del Río (Marruecos)', 37.42173385620117, -5.985960960388184);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (552, 'Traviesa (Avd. San Jerónimo)', 37.418514251708984, -5.9856390953063965);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (553, 'San Luis (Plaza Pumarejo)', 37.4007453918457, -5.98879337310791);
+INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (553, 'San Luis (Relator)', 37.40050506591797, -5.988687515258789);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (554, 'Paseo Colon (Jardines Cristina)', 37.38159942626953, -5.99526309967041);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (555, 'Plaza de La Magdalena', 37.39113998413086, -5.9969072341918945);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (556, 'Marques de Paradas', 37.38896560668945, -6.00106143951416);
@@ -555,7 +551,6 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (565, 'Prado 
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (566, 'Manuel Siurot (Rafael Salgado)', 37.35917663574219, -5.980631351470947);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (567, 'Éfeso (Avenida Soleá)', 37.39486312866211, -5.96383810043335);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (568, 'Ada (Avenida Montes Sierra)', 37.39120101928711, -5.959755897521973);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (569, 'Ulpiano Blanco (Barrio Bajo)', 37.41635513305664, -5.93411922454834);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (570, 'Ada (Avenida Montes Sierra)', 37.391639709472656, -5.959782600402832);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (572, 'Gran Plaza', 37.38116455078125, -5.966155529022217);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (573, 'Gran Plaza', 37.38166809082031, -5.965254306793213);
@@ -596,7 +591,6 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (616, 'Avenid
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (617, 'Avenida Alemania (Suecia)', 37.34539794921875, -5.980177879333496);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (618, 'Avda. Dinamarca (Sadus)', 37.349143981933594, -5.98679780960083);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (619, 'Ronda de Triana (Manuel Arellano)', 37.38522720336914, -6.011612892150879);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (620, 'Flor de Gitanilla (Flor de Retama)', 37.39815139770508, -5.919753551483154);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (621, 'Periodista Eduardo C', 37.40277099609375, -5.91737174987793);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (622, 'Galaxia', 37.383628845214844, -5.956727504730225);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (624, 'Blas Infante (Rubén Darío)', 37.3748893737793, -6.008096694946289);
@@ -621,7 +615,6 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (643, 'Montes
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (644, 'Montes Sierra (Tesalónica)', 37.39109802246094, -5.957639694213867);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (645, 'Estrella Canopus(Estrella Haris)', 37.42815017700195, -5.9683122634887695);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (646, 'Estrella Haris (Agricultores)', 37.42655563354492, -5.965490341186523);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (647, 'Ulpiano Blanco (Aerop. Viejo)', 37.41904830932617, -5.933582782745361);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (648, 'Garrochistas (Salineros)', 37.42574691772461, -5.963344573974609);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (649, 'Alvar Núñez Cabeza de Vaca (Antioquía)', 37.39784240722656, -5.95532751083374);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (650, 'Aeropuerto de Sevilla (Llegadas)', 37.423458099365234, -5.900074481964111);
@@ -712,7 +705,6 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (736, 'Avda. 
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (737, 'Américo Vespucio (F. de Comunicación)', 37.410587310791016, -6.006638526916504);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (738, 'Juan Bautista Muñoz (Esc. de Ingenieros)', 37.41147232055664, -5.9994096755981445);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (739, 'Andalucía Residencial (Edificio Málaga)', 37.38690948486328, -5.919077396392822);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (740, 'Ulpiano Blanco (Bda. Aeropuerto Viejo)', 37.420745849609375, -5.935771465301514);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (741, 'Puente La Barqueta', 37.405128479003906, -5.998819351196289);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (742, 'María Galiana (Santa María de La Cabeza)', 37.34681701660156, -5.9743523597717285);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (743, 'Avda. Las Ciencias (Edif. Albéniz)', 37.39336395263672, -5.921233654022217);
@@ -755,7 +747,6 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (779, 'Arjona
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (780, 'Torneo (San Lorenzo)', 37.398006439208984, -6.000622749328613);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (781, 'Torneo (San Lorenzo)', 37.398067474365234, -6.001469135284424);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (782, 'Glorieta San Lázaro (Romanticismo)', 37.4130859375, -5.986089706420898);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (783, 'Ulpiano Blanco (Ctra. Miraflores)', 37.424930572509766, -5.94036340713501);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (784, 'José Laguillo (Puerta Osario)', 37.393798828125, -5.982956886291504);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (785, 'María Auxiliadora (Puerta Osario)', 37.3941535949707, -5.983860969543457);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (786, 'Ronda de Capuchinos (La Trinidad)', 37.397865295410156, -5.9815354347229);
@@ -865,7 +856,7 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (891, 'José 
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (892, 'Alfredo Kraus', 37.373268127441406, -6.008693695068359);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (893, 'Alfredo Kraus (Oficina de Lipasam)', 37.3715934753418, -6.005420207977295);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (894, 'Estonia (Av. Irlanda)', 37.34280014038086, -5.978360176086426);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (895, 'García Morato (Carlos Haya)', 37.367794036865234, -6.007948875427246);
+INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (895, 'García Morato (Comisaria Policia)', 37.367794036865234, -6.007948875427246);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (896, 'Alfonso de Orleans (García Morato)', 37.36771774291992, -6.004508018493652);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (897, 'Ramón de Carranza (Oficina Lipasam)', 37.37168884277344, -6.005156993865967);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (898, 'Estaca de Vares (Brunete)', 37.384063720703125, -5.918283462524414);
@@ -909,7 +900,7 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (937, 'Améri
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (938, 'Américo Vespucio (Louis Braille)', 37.40522766113281, -6.008298397064209);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (939, 'Américo Vespucio (Monast. de La Cartuja)', 37.39741516113281, -6.010568141937256);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (940, 'Inca Garcilaso (Puerta Triana)', 37.39140319824219, -6.0111541748046875);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (941, 'Estrella Betelgueuse(Glta.Oceanografica)', 37.42487716674805, -5.970340728759766);
+INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (941, 'Estrella Betelgueuse(Glta.Oceanografica)', 37.425193786621094, -5.971251487731934);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (942, 'Avda. Finlandia (Hungria)', 37.343505859375, -5.980435371398926);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (943, 'Dña. María Coronel (San Felipe)', 37.39384078979492, -5.98954439163208);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (944, 'Juan Bautista Muñoz(José Gálvez)', 37.40912628173828, -5.996422290802002);
@@ -919,13 +910,12 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (947, 'Avenid
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (948, 'Avenida de Andalucía (Los Arcos)', 37.38740921020508, -5.960352897644043);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (949, 'Apeadero San Bernardo --> CERCANÍAS', 37.378299713134766, -5.979212284088135);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (950, 'Esparteros (Mercado)', 37.42203903198242, -5.963698387145996);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (951, 'Camino de Los Toros (Enfermeras)', 37.41997146606445, -5.966091156005859);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (952, 'Parque de Doñana (Ronda Norte)', 37.41685104370117, -5.974245071411133);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (953, 'Parque de Doñana (Ronda Norte)', 37.4168815612793, -5.97380256652832);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (954, 'Avenida La Barzola (Sancho Dávila)', 37.41103744506836, -5.977149963378906);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (955, 'Avda. La Barzola (Cazalla de La Sierra)', 37.41146469116211, -5.9770989418029785);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (956, 'Santa Fe (Niebla)', 37.375152587890625, -6.005169868469238);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (957, 'Santa Fe (Niebla)', 37.375282287597656, -6.00534200668335);
+INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (956, 'Santa Fe (Niebla)', 37.37480545043945, -6.004507541656494);
+INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (957, 'Santa Fe (Niebla)', 37.374542236328125, -6.004482746124268);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (958, 'López de Gomara (San Martín de Porres)', 37.37986373901367, -6.008748531341553);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (959, 'Cristo de La Expiración (Puerta Triana)', 37.39081573486328, -6.010014533996582);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (960, 'Plaza del Duque', 37.39314270019531, -5.995703220367432);
@@ -972,6 +962,8 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1001, 'Jesus
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1002, 'Aeropuerto de Sevilla (Salidas)', 37.42391586303711, -5.899680137634277);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1003, 'Luna (Paseo de Hiperion)', 37.432220458984375, -5.97080135345459);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1004, 'Ronda Padre Pio (Castillo Guardas)', 37.371437072753906, -5.940631866455078);
+INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1005, 'Flor de Porfcelana(Flor de Azalea)', 37.3936882019043, -5.916172981262207);
+INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1006, 'Flor de Retama(Centro deportivo Entreflores)', 37.39746856689453, -5.918821811676025);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1007, 'Ctra. Su Eminencia (Castillo de Marcheni', 37.35665512084961, -5.975643634796143);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1009, 'Avda.Roma (Palacio de San Telmo)', 37.38072967529297, -5.993978500366211);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1010, 'Estrecho de Magallanes', 37.3723258972168, -5.943906784057617);
@@ -987,15 +979,7 @@ INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1024, 'Agric
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1025, 'Camino de Los Toros (Corral del Moro)', 37.42146682739258, -5.970252513885498);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1026, 'Estrella Canopus (Estrella Adara)', 37.42263412475586, -5.970808982849121);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1027, 'Estrella Betelgeuse (Estrella Canopus)', 37.425045013427734, -5.970498085021973);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1032, 'Cam. descubrimientos (Esc. Ingenieros)', 37.4112548828125, -6.001833438873291);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1033, 'Cam. descubrimientos (Isaac Newton)', 37.40715408325195, -6.003023624420166);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1034, 'Cam. descubrimientos (Albert Einstein)', 37.403099060058594, -6.004044532775879);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1035, 'Alfredo Kraus (Blas Infante)', 37.37314224243164, -6.010791301727295);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1044, 'Medina y Galnares (C.D.San Jeronimo)', 37.42406463623047, -5.982302665710449);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1045, 'Rafael Beca Mateos (Asociacion)', 37.39268112182617, -5.9493489265441895);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1046, 'Av. La Prensa', 37.38965606689453, -5.952622890472412);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1047, 'Economia', 37.39382553100586, -5.948421955108643);
-INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (1048, 'Av. Fernandez Murube', 37.39268112182617, -5.943802356719971);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (3000, 'Prado San Sebastián', 37.38090896606445, -5.987178802490234);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (3001, 'Puerta Jerez', 37.382240295410156, -5.992617130279541);
 INSERT INTO parada (numero, descripcion, latitud, longitud) VALUES (3002, 'Archivo de Indias', 37.384788513183594, -5.993898391723633);
