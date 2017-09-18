@@ -1,5 +1,5 @@
 {
-    "data_version": 201708081133,
+    "data_version": 201709181925,
     "app_min_build_version": 94,
     "data_location": {
         "paradas": "https://raw.githubusercontent.com/Sloy/sevibus-data/master/sql/paradas.sql",

@@ -24,8 +24,9 @@ INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (31, '31', 'Prado 
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (32, '32', 'Plz. Duque - Plg. Sur', 1, '#000d6f');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (34, '34', 'Prado San Sebastián - Los Bermejales', 1, '#000d6f');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (37, '37', 'Pta. Jerez - Pedro Salvador - Bellavista', 1, '#000d6f');
-INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (125, '38A', 'Prado - Pitamo - Olavide', 1, '#000d6f');
-INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (39, '39', 'Los Arcos - Hac. S. Antonio', 1, '#000d6f');
+INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (38, '38', 'Prado - Univ. P. Olavide [d]', 1, '#000d6f');
+INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (125, '38A', 'Prado - Pitamo - Olavide [d]', 1, '#000d6f');
+INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (39, '39', 'Los Arcos - Hac. S. Antonio [v]', 1, '#000d6f');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (40, '40', 'Plz. Magdalena - Triana', 1, '#000d6f');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (41, '41', 'Plz. Magadalena - Tablada', 1, '#000d6f');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (43, '43', 'Plz. Magdalena - El Tardon', 1, '#000d6f');
@@ -38,6 +39,7 @@ INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (83, 'C3', 'Circul
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (84, 'C4', 'Circular Interior 2', 1, '#008431');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (121, 'C5', 'Circular Centro 5', 1, '#008431');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (108, 'C6A', 'Circular Macarena Norte Sentido A', 1, '#008431');
-INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (109, 'C6B', 'Circular Macarena Norte Sentido B', 1, '#008431');
-INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (100, 'EA', 'Aeropuerto', 1, '#84c6e3');
+INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (100, 'EA', 'Aeropuerto [t][l]', 1, '#84c6e3');
+INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (70, 'LC', 'Lanzadera Cartuja [t][d][l]', 1, '#f7a800');
+INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (71, 'LE', 'Prado San Sebastián - Sevilla Este [l]', 1, '#f7a800');
 INSERT INTO linea (id, numero, nombre, tipo_id, color) VALUES (60, 'T1', 'Metrocentro', 1, '#c60018');
