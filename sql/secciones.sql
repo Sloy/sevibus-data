@@ -20,8 +20,8 @@ INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, line
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1014, 'POLIGONO NORTE', 1, '06:00:00', '23:53:00', 14);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2015, 'PLAZA PONCE DE LEON', 2, '06:07:00', '23:55:00', 15);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1015, 'SAN DIEGO', 1, '06:00:00', '23:48:00', 15);
-INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2016, 'PLAZA PONCE DE LEON', 2, '06:00:00', '05:00:00', 16);
-INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1016, 'VALDEZORRAS ', 1, '06:30:00', '05:30:00', 16);
+INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2016, 'PLAZA PONCE DE LEON', 2, '06:00:00', '23:30:00', 16);
+INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1016, 'VALDEZORRAS ', 1, '06:30:00', '00:00:00', 16);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2020, 'PLAZA PONCE DE LEON', 2, '06:05:00', '23:55:00', 20);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1020, 'POLIGONO SAN PABLO', 1, '06:00:00', '23:54:00', 20);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2021, 'PLAZA DE ARMAS', 2, '06:04:00', '00:06:00', 21);
@@ -38,8 +38,8 @@ INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, line
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1027, 'SEVILLA ESTE', 1, '05:52:00', '00:10:00', 27);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1028, 'PARQUE ALCOSA', 1, '05:00:00', '00:10:00', 28);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2028, 'PRADO DE S.SEBASTIAN', 2, '05:12:00', '00:13:00', 28);
-INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2029, 'PRADO DE S.SEBASTIAN', 2, '05:37:00', '05:30:00', 29);
-INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1029, 'TORREBLANCA ', 1, '05:31:00', '05:30:00', 29);
+INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2029, 'PRADO DE S.SEBASTIAN', 2, '05:37:00', '02:00:00', 29);
+INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1029, 'TORREBLANCA ', 1, '05:31:00', '02:30:00', 29);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1030, 'LAS LETANIAS', 1, '06:00:00', '23:45:00', 30);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2030, 'PRADO DE S.SEBASTIAN', 2, '06:07:00', '23:48:00', 30);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1031, 'BARRIADA MURILLO', 1, '06:00:00', '23:49:00', 31);
@@ -72,9 +72,10 @@ INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, line
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (99084, 'CIRCULAR', 99, '06:00:00', '23:46:00', 84);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (99121, 'CIRCULAR', 99, '09:50:00', '21:49:00', 121);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (99108, 'CIRCULAR', 99, '05:50:00', '00:20:00', 108);
+INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (99109, 'CIRCULAR', 99, '06:45:00', '16:45:00', 109);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1100, 'AEROPUERTO ', 1, '04:30:00', '00:45:00', 100);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2100, 'TORNEO PLZ.ARMAS', 2, '05:20:00', '01:25:00', 100);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2071, 'LINEA EXPRES PRADO', 2, '07:00:00', '21:34:00', 71);
 INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1071, 'LINEA EXPRES SEV. ESTE', 1, '07:38:00', '22:05:00', 71);
-INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2060, 'PLAZA NUEVA', 2, '06:00:00', '01:58:00', 60);
-INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1060, 'SAN BERNARDO', 1, '06:14:00', '02:11:00', 60);
+INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (2060, 'PLAZA NUEVA', 2, '06:00:00', '23:28:00', 60);
+INSERT INTO seccion (id, nombreSeccion, numeroSeccion, horaInicio, horaFin, linea_id) VALUES (1060, 'SAN BERNARDO', 1, '06:14:00', '23:41:00', 60);
